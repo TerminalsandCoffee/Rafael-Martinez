@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rafael - the creator of Terminals and Coffee
+### Hi there 👋 I'm Rafael - The creator of Terminals and Coffee
 - I’m interested in all things DevOps/Cloud computing. I am working towards becoming a Coud Engineer and have intentions to  move into Cloud Security as my career advances. 
 - 🌱 I’m currently learning Python and AWS and have experience with Azure and PowerShell. 
 - 📫 Check out my website https://rafaelmartinez.cloud/
