@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rafael - The creator of Terminals and Coffee
-- I’m interested in all things DevOps/Cloud computing. I am current a Technical Support Agent in the day, and a Cloud DevOps Engineer at night. 
+- I’m interested in all things DevOps/Cloud computing. I am currently a Technical Support Agent in the day, and a Cloud DevOps Engineer at night. 
 - 🌱 I’m currently learning Python and AWS and have experience with Azure and PowerShell. 
 - 📫 Check out my websites https://rafaelmartinez.cloud/ | https://madebyraf.tech
 
