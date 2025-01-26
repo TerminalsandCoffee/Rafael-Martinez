@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgmllc/)](https://www.linkedin.com/in/rgmartinez-cloud/)
 [![Medium Badge](https://img.shields.io/badge/Rafael%20Martinez-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@terminalsandcoffee/)](https://medium.com/@terminalsandcoffee)
-[![Gmail Badge](https://img.shields.io/badge/-rgm@RafaelMartinez.cloud-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgm@RafaelMartinez.cloud)](mailto:rafael@terminalsandcoffee.com)
+[![Gmail Badge](https://img.shields.io/badge/-/rafael@terminalsandcoffee.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgm@RafaelMartinez.cloud)](mailto:rafael@terminalsandcoffee.com)
 
 ## ⚡ Technologies
 
