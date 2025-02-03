@@ -15,20 +15,23 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Technologies
 
-<!-- Check out the Badges folder for more badges -->
+// ... existing code ...
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+## Overall Github Metrics 📊
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TerminalsandCoffee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalsandCoffee&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TerminalsandCoffee&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalsandCoffee&hide=TeX&layout=compact)
+### Stats
+- ⭐ Total Stars: ![GitHub stars](https://img.shields.io/github/stars/TerminalsandCoffee?style=flat)
+- 💻 Total Commits: ![GitHub commits](https://img.shields.io/github/commit-activity/t/TerminalsandCoffee/TerminalsandCoffee)
+- 🔄 Total PRs: ![GitHub PRs](https://img.shields.io/github/issues-pr/TerminalsandCoffee/TerminalsandCoffee)
+- ⚡ Total Issues: ![GitHub issues](https://img.shields.io/github/issues/TerminalsandCoffee/TerminalsandCoffee)
+- 🤝 Contributed to: ![GitHub repos](https://img.shields.io/github/repos-search/TerminalsandCoffee?type=public)
 
+### Current Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminalsandCoffee&theme=dark)](https://git.io/streak-stats)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=TerminalsandCoffee%2FTerminalsandCoffee&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=TerminalsandCoffee%2FTerminalsandCoffee)
+// ... existing code ...
