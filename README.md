@@ -15,8 +15,6 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Technologies
 
-// ... existing code ...
-
 ## Overall Github Metrics 📊
 
 <div align="center">
@@ -34,4 +32,4 @@ Find out more about me & feel free to connect with me here:
 ### Current Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerminalsandCoffee&theme=dark)](https://git.io/streak-stats)
 
-// ... existing code ...
+
